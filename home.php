@@ -114,21 +114,85 @@
 
     </div>
 </section>
-
 <!-- services section ends -->
 
+<!-- home about section starts -->
 
+<section class="home-about">
 
+<div class="image">
+    <img src="images/about-img.png" alt="">
+</div>
 
+<div class="cont">
+    <h3>about us</h3>
+    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+    <a href="about.php" class="btn">read more</a>
+</div>
+</section>
 
+<!-- home about section ends -->
 
+<!-- home package section starts -->
 
+<section class="home-packages">
 
+    <h1 class="heading-title"> Our packages </h1>
+    <div class="box-container">
 
+        <div class="box">
+            <div class="image">
+                <img src="images/img-1.png" alt="">
+            </div>
 
+                <div class="content">
+                    <h3>adventure and tour</h3>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
+                    <a href="book.php" class="btn">book now</a>
+                </div>
+        </div>
 
+        <div class="box">
+            <div class="image">
+                <img src="images/img-2.png" alt="">
+            </div>
 
+                <div class="content">
+                    <h3>adventure and tour</h3>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
+                    <a href="book.php" class="btn">book now</a>
+                </div>
+        </div>
 
+        <div class="box">
+            <div class="image">
+                <img src="images/img-3.png" alt="">
+            </div>
+
+                <div class="content">
+                    <h3>adventure and tour</h3>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
+                    <a href="book.php" class="btn">book now</a>
+                </div>
+        </div>
+
+    </div>
+
+    <div class="load-more"> <a href="package.php" class="btn"> load more </a></div>
+</section>
+<!-- home package section end -->
+
+<!-- home offer section starts -->
+
+<section class="home-offer">
+    <div class="content">
+        <h3>upto 50% off</h3>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
+        <a href="book.php" class="btn"> book now </a>
+    </div>
+</section>
+
+<!-- home offer section end -->
 
 
 
