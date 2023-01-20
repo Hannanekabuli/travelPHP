@@ -536,9 +536,6 @@ section{
 
 
 
-
-
-
 .footer{
     /*background: url(../image/footer-bg.png) no-repeat;*/
    background-color: #222;
@@ -615,6 +612,10 @@ section{
 }
 
 @media (max-width:768px){
+
+    .heading h1{
+        font-size: 4rem;
+    }
 
     #menu-btn{
         display: inline-block;
